@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+*.pyc
+.DS_Store
+
+chroma/
+chroma_db/
+*.sqlite3
